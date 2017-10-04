@@ -6,7 +6,7 @@ This is my personal path as a recently graduate student with a Bachelors in Exer
 
 ## Motivation
 
-I had no computer background prior to starting with Codecademy. After graduation I was curious to learn more about this 'mysterious' thing that I'd heard about. During my breaks studying for the MCAT I found myself on Codecademy and found myself reading about the latest technologies and there was a question that coming up "How does [TECHNOLOGY] work?" and it was this curiosity that led me to pursing a career in Software Development.
+I had no computer background prior to starting with Codecademy. After graduation I was curious to learn more about this 'mysterious' thing called coding that I'd heard about. During my breaks studying for the MCAT I found myself on Codecademy and in spare time found myself reading about the latest technologies and there was a question that kept coming up "How does [TECHNOLOGY] work?" and it was this curiosity that led me to pursing a career in Software Development.
 
 ## [CodeCademy](https://www.codecademy.com/)
 ### [My Profile](https://www.codecademy.com/zannain)
